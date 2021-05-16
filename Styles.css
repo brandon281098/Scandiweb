@@ -1,0 +1,62 @@
+/* common CSS */
+
+label{
+    color: white;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+.body{
+    padding: 100px;
+
+width: auto;
+background-color: rgb(12, 12, 37);
+}
+
+/* Home page */
+
+.card{
+    
+    /* height: 300px !important; */
+    width: 200px;
+    margin: 30px;
+    background-color: white;
+}
+.card-subtitle{
+    color: rgb(0, 0, 0);
+    /* -webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgb(0, 0, 0); */
+    background-color: rgba(255, 255, 255, 0.43);
+}
+.card-title{
+    color: rgb(0, 0, 0);
+    /* -webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgb(0, 0, 0); */
+    background-color: rgba(255, 255, 255, 0.43);
+}
+.card-text{
+    color: rgb(5, 5, 5);
+    /* -webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgb(0, 0, 0); */
+    background-color: rgba(255, 255, 255, 0.43);
+
+}
+
+/* Add page */
+.header{
+    border-bottom: white;
+    border-width: 1px;
+}
+.Entry{
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.formEntry{
+    width: 300px;
+}
+.box{
+    width: 300px;
+border-width: 2px;
+border-color: white;
+}
